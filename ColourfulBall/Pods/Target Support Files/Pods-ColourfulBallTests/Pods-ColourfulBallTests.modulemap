@@ -1,0 +1,6 @@
+framework module Pods_ColourfulBallTests {
+  umbrella header "Pods-ColourfulBallTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
